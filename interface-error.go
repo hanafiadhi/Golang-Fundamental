@@ -13,7 +13,7 @@ func Pembagi(nilai int, pembagi int) (int, error) {
 	}
 }
 func main() {
-	values, error := Pembagi(10, 5)
+	values, error := Pembagi(10, 0)
 	if error != nil {
 		fmt.Println(error)
 	} else {
