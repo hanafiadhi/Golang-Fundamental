@@ -14,4 +14,4 @@ func main() {
 	hanafi := Man{"Hanafi"}
 	hanafi.Married()
 	fmt.Println(hanafi)
-}
+}adadwadawadawdadawawdawdawdawdawd
